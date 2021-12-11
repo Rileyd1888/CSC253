@@ -1,0 +1,6 @@
+E:\Fall 2021\CSC  C#\InfoToFile_Riley\PersonClassLibrary\bin\Debug\PersonClassLibrary.dll
+E:\Fall 2021\CSC  C#\InfoToFile_Riley\PersonClassLibrary\bin\Debug\PersonClassLibrary.pdb
+E:\Fall 2021\CSC  C#\InfoToFile_Riley\PersonClassLibrary\obj\Debug\PersonClassLibrary.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\InfoToFile_Riley\PersonClassLibrary\obj\Debug\PersonClassLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\InfoToFile_Riley\PersonClassLibrary\obj\Debug\PersonClassLibrary.dll
+E:\Fall 2021\CSC  C#\InfoToFile_Riley\PersonClassLibrary\obj\Debug\PersonClassLibrary.pdb
