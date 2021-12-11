@@ -1,0 +1,6 @@
+C:\Users\HOME\source\repos\SeperateWords_RileyDerek\SeperateLibrary\bin\Debug\SeperateLibrary.dll
+C:\Users\HOME\source\repos\SeperateWords_RileyDerek\SeperateLibrary\bin\Debug\SeperateLibrary.pdb
+C:\Users\HOME\source\repos\SeperateWords_RileyDerek\SeperateLibrary\obj\Debug\SeperateLibrary.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\SeperateWords_RileyDerek\SeperateLibrary\obj\Debug\SeperateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\SeperateWords_RileyDerek\SeperateLibrary\obj\Debug\SeperateLibrary.dll
+C:\Users\HOME\source\repos\SeperateWords_RileyDerek\SeperateLibrary\obj\Debug\SeperateLibrary.pdb
