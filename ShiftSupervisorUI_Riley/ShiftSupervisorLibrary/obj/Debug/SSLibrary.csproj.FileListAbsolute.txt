@@ -1,0 +1,6 @@
+E:\Fall 2021\CSC  C#\ShiftSupervisorUI_Riley\ShiftSupervisorLibrary\bin\Debug\ShiftSupervisorLibrary.dll
+E:\Fall 2021\CSC  C#\ShiftSupervisorUI_Riley\ShiftSupervisorLibrary\bin\Debug\ShiftSupervisorLibrary.pdb
+E:\Fall 2021\CSC  C#\ShiftSupervisorUI_Riley\ShiftSupervisorLibrary\obj\Debug\SSLibrary.csproj.AssemblyReference.cache
+E:\Fall 2021\CSC  C#\ShiftSupervisorUI_Riley\ShiftSupervisorLibrary\obj\Debug\SSLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\ShiftSupervisorUI_Riley\ShiftSupervisorLibrary\obj\Debug\ShiftSupervisorLibrary.dll
+E:\Fall 2021\CSC  C#\ShiftSupervisorUI_Riley\ShiftSupervisorLibrary\obj\Debug\ShiftSupervisorLibrary.pdb
