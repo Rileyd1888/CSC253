@@ -1,0 +1,12 @@
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\bin\Debug\PopulationDB.mdf
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\bin\Debug\PopulationDB_log.ldf
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\bin\Debug\PopulationDatabaseUI.exe.config
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\bin\Debug\PopulationDatabaseUI.exe
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\bin\Debug\PopulationDatabaseUI.pdb
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\obj\Debug\PopulationDatabaseUI.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\obj\Debug\PopulationDatabaseUI.Form1.resources
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\obj\Debug\PopulationDatabaseUI.Properties.Resources.resources
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\obj\Debug\PopulationDatabaseUI.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\obj\Debug\PopulationDatabaseUI.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\obj\Debug\PopulationDatabaseUI.exe
+C:\Users\HOME\source\repos\PopulationDatabase_Riley\PopulationDatabaseUI\obj\Debug\PopulationDatabaseUI.pdb
