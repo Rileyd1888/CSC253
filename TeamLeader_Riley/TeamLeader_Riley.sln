@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamLeaderUI", "TeamLeaderUI\TeamLeaderUI.csproj", "{65DADBFF-9151-43E1-BC50-FA82E59A349A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPWorkerLibrary", "..\EmployeeProductionWorker_Riley\EPWorkerLibrary\EPWorkerLibrary.csproj", "{2ADA9B82-B75F-4B7F-AE0D-0CCF78476E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DADBFF-9151-43E1-BC50-FA82E59A349A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DADBFF-9151-43E1-BC50-FA82E59A349A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DADBFF-9151-43E1-BC50-FA82E59A349A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DADBFF-9151-43E1-BC50-FA82E59A349A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ADA9B82-B75F-4B7F-AE0D-0CCF78476E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADA9B82-B75F-4B7F-AE0D-0CCF78476E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADA9B82-B75F-4B7F-AE0D-0CCF78476E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADA9B82-B75F-4B7F-AE0D-0CCF78476E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16AF27A7-8959-4815-BA37-B4C90119BE8E}
+	EndGlobalSection
+EndGlobal

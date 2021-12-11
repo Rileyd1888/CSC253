@@ -1,0 +1,12 @@
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\bin\Debug\TeamLeaderUI.exe.config
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\bin\Debug\TeamLeaderUI.exe
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\bin\Debug\TeamLeaderUI.pdb
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\bin\Debug\EPWorkerLibrary.dll
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\bin\Debug\EPWorkerLibrary.pdb
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\obj\Debug\TeamLeaderUI.csproj.AssemblyReference.cache
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\obj\Debug\TeamLeaderUI.Form1.resources
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\obj\Debug\TeamLeaderUI.Properties.Resources.resources
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\obj\Debug\TeamLeaderUI.csproj.GenerateResource.cache
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\obj\Debug\TeamLeaderUI.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\obj\Debug\TeamLeaderUI.exe
+E:\Fall 2021\CSC  C#\TeamLeader_Riley\TeamLeaderUI\obj\Debug\TeamLeaderUI.pdb
