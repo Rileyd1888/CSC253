@@ -1,0 +1,6 @@
+E:\Fall 2021\CSC  C#\CarClass_Rileyd\Car_ClassLibrary\bin\Debug\Car_ClassLibrary.dll
+E:\Fall 2021\CSC  C#\CarClass_Rileyd\Car_ClassLibrary\bin\Debug\Car_ClassLibrary.pdb
+E:\Fall 2021\CSC  C#\CarClass_Rileyd\Car_ClassLibrary\obj\Debug\Car_ClassLibrary.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\CarClass_Rileyd\Car_ClassLibrary\obj\Debug\Car_ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\CarClass_Rileyd\Car_ClassLibrary\obj\Debug\Car_ClassLibrary.dll
+E:\Fall 2021\CSC  C#\CarClass_Rileyd\Car_ClassLibrary\obj\Debug\Car_ClassLibrary.pdb
