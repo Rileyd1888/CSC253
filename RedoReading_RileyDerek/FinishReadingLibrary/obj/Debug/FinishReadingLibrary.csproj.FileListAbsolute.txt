@@ -1,0 +1,6 @@
+E:\Fall 2021\CSC  C#\RedoReading_RileyDerek\FinishReadingLibrary\obj\Debug\FinishReadingLibrary.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\RedoReading_RileyDerek\FinishReadingLibrary\obj\Debug\FinishReadingLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\RedoReading_RileyDerek\FinishReadingLibrary\bin\Debug\FinishReadingLibrary.dll
+E:\Fall 2021\CSC  C#\RedoReading_RileyDerek\FinishReadingLibrary\bin\Debug\FinishReadingLibrary.pdb
+E:\Fall 2021\CSC  C#\RedoReading_RileyDerek\FinishReadingLibrary\obj\Debug\FinishReadingLibrary.dll
+E:\Fall 2021\CSC  C#\RedoReading_RileyDerek\FinishReadingLibrary\obj\Debug\FinishReadingLibrary.pdb
