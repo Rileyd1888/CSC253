@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySorterUI", "PaySorterUI\PaySorterUI.csproj", "{B500FABE-9DF6-4344-BEAD-AE48B114C90B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLibrary", "DatabaseLibrary\DatabaseLibrary.csproj", "{BD1BCADE-84B4-4D80-967F-F8E59539DA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B500FABE-9DF6-4344-BEAD-AE48B114C90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B500FABE-9DF6-4344-BEAD-AE48B114C90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B500FABE-9DF6-4344-BEAD-AE48B114C90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B500FABE-9DF6-4344-BEAD-AE48B114C90B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1BCADE-84B4-4D80-967F-F8E59539DA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1BCADE-84B4-4D80-967F-F8E59539DA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1BCADE-84B4-4D80-967F-F8E59539DA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1BCADE-84B4-4D80-967F-F8E59539DA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDEDA712-3AF7-430D-802C-2340EC54DCC2}
+	EndGlobalSection
+EndGlobal
