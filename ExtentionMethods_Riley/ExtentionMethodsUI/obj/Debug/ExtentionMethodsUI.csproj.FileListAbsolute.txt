@@ -1,0 +1,12 @@
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\bin\Debug\ExtentionMethodsUI.exe.config
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\bin\Debug\ExtentionMethodsUI.exe
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\bin\Debug\ExtentionMethodsUI.pdb
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\bin\Debug\ExtentionLibrary.dll
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\bin\Debug\ExtentionLibrary.pdb
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\obj\Debug\ExtentionMethodsUI.csproj.AssemblyReference.cache
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\obj\Debug\ExtentionMethodsUI.Form1.resources
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\obj\Debug\ExtentionMethodsUI.Properties.Resources.resources
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\obj\Debug\ExtentionMethodsUI.csproj.GenerateResource.cache
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\obj\Debug\ExtentionMethodsUI.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\obj\Debug\ExtentionMethodsUI.exe
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionMethodsUI\obj\Debug\ExtentionMethodsUI.pdb

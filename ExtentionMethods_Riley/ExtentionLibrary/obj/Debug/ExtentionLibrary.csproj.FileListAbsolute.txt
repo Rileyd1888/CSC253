@@ -1,0 +1,6 @@
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionLibrary\bin\Debug\ExtentionLibrary.dll
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionLibrary\bin\Debug\ExtentionLibrary.pdb
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionLibrary\obj\Debug\ExtentionLibrary.csproj.AssemblyReference.cache
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionLibrary\obj\Debug\ExtentionLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionLibrary\obj\Debug\ExtentionLibrary.dll
+E:\Fall 2021\CSC  C#\ExtentionMethods_Riley\ExtentionLibrary\obj\Debug\ExtentionLibrary.pdb
