@@ -1,0 +1,3 @@
+D:\Fall 2021\CSC  C#\Redo_WriteToFile_RileyDerek\Redo_WriteToFileUI\obj\Debug\Redo_WriteToFileUI.csprojAssemblyReference.cache
+D:\Fall 2021\CSC  C#\Redo_WriteToFile_RileyDerek\Redo_WriteToFileUI\obj\Debug\Redo_WriteToFileUI.Form1.resources
+D:\Fall 2021\CSC  C#\Redo_WriteToFile_RileyDerek\Redo_WriteToFileUI\obj\Debug\Redo_WriteToFileUI.csproj.GenerateResource.cache
