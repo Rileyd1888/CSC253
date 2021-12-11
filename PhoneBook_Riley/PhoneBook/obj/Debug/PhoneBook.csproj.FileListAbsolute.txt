@@ -1,0 +1,12 @@
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\bin\Debug\Phonelist.mdf
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\bin\Debug\Phonelist_log.ldf
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\bin\Debug\PhoneBook.exe
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\obj\Debug\PhoneBook.exe
+E:\Fall 2021\CSC  C#\PhoneBook_Riley\PhoneBook\obj\Debug\PhoneBook.pdb
