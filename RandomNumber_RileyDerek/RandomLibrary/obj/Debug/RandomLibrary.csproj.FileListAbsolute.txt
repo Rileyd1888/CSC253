@@ -1,0 +1,12 @@
+C:\Users\HOME\source\repos\RandomNumber_RileyDerek\RandomLibrary\bin\Debug\RandomLibrary.dll
+C:\Users\HOME\source\repos\RandomNumber_RileyDerek\RandomLibrary\bin\Debug\RandomLibrary.pdb
+C:\Users\HOME\source\repos\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.dll
+C:\Users\HOME\source\repos\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.pdb
+E:\Fall 2021\CSC  C#\RandomNumber_RileyDerek\RandomLibrary\bin\Debug\RandomLibrary.dll
+E:\Fall 2021\CSC  C#\RandomNumber_RileyDerek\RandomLibrary\bin\Debug\RandomLibrary.pdb
+E:\Fall 2021\CSC  C#\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.dll
+E:\Fall 2021\CSC  C#\RandomNumber_RileyDerek\RandomLibrary\obj\Debug\RandomLibrary.pdb
