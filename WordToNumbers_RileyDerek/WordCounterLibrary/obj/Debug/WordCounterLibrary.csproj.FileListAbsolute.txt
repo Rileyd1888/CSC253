@@ -1,0 +1,6 @@
+E:\Fall 2021\CSC  C#\WordToNumbers_RileyDerek\WordCounterLibrary\bin\Debug\WordCounterLibrary.dll
+E:\Fall 2021\CSC  C#\WordToNumbers_RileyDerek\WordCounterLibrary\bin\Debug\WordCounterLibrary.pdb
+E:\Fall 2021\CSC  C#\WordToNumbers_RileyDerek\WordCounterLibrary\obj\Debug\WordCounterLibrary.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\WordToNumbers_RileyDerek\WordCounterLibrary\obj\Debug\WordCounterLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\WordToNumbers_RileyDerek\WordCounterLibrary\obj\Debug\WordCounterLibrary.dll
+E:\Fall 2021\CSC  C#\WordToNumbers_RileyDerek\WordCounterLibrary\obj\Debug\WordCounterLibrary.pdb
