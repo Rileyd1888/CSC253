@@ -1,0 +1,6 @@
+E:\Fall 2021\CSC  C#\ReadingmyFile_RileyDerek\ReaderLibrary\bin\Debug\ReaderLibrary.dll
+E:\Fall 2021\CSC  C#\ReadingmyFile_RileyDerek\ReaderLibrary\bin\Debug\ReaderLibrary.pdb
+E:\Fall 2021\CSC  C#\ReadingmyFile_RileyDerek\ReaderLibrary\obj\Debug\ReaderLibrary.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\ReadingmyFile_RileyDerek\ReaderLibrary\obj\Debug\ReaderLibrary.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\ReadingmyFile_RileyDerek\ReaderLibrary\obj\Debug\ReaderLibrary.dll
+E:\Fall 2021\CSC  C#\ReadingmyFile_RileyDerek\ReaderLibrary\obj\Debug\ReaderLibrary.pdb
