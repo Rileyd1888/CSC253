@@ -1,0 +1,10 @@
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\bin\Debug\HourlyPayScale.exe.config
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\bin\Debug\HourlyPayScale.exe
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\bin\Debug\HourlyPayScale.pdb
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\obj\Debug\HourlyPayScale.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\obj\Debug\HourlyPayScale.Form1.resources
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\obj\Debug\HourlyPayScale.Properties.Resources.resources
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\obj\Debug\HourlyPayScale.csproj.GenerateResource.cache
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\obj\Debug\HourlyPayScale.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\obj\Debug\HourlyPayScale.exe
+E:\Fall 2021\CSC  C#\HourlyPayScale\HourlyPayScale\obj\Debug\HourlyPayScale.pdb
