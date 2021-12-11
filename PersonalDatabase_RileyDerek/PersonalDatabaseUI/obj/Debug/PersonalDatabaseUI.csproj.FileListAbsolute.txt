@@ -1,0 +1,12 @@
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\bin\Debug\Personnel.mdf
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\bin\Debug\Personnel_log.ldf
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\bin\Debug\PersonalDatabaseUI.exe.config
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\bin\Debug\PersonalDatabaseUI.exe
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\bin\Debug\PersonalDatabaseUI.pdb
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\obj\Debug\PersonalDatabaseUI.csprojAssemblyReference.cache
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\obj\Debug\PersonalDatabaseUI.DatabaseWork.resources
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\obj\Debug\PersonalDatabaseUI.Properties.Resources.resources
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\obj\Debug\PersonalDatabaseUI.csproj.GenerateResource.cache
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\obj\Debug\PersonalDatabaseUI.csproj.CoreCompileInputs.cache
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\obj\Debug\PersonalDatabaseUI.exe
+E:\Fall 2021\CSC  C#\PersonalDatabase_RileyDerek\PersonalDatabaseUI\obj\Debug\PersonalDatabaseUI.pdb
